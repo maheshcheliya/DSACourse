@@ -32,7 +32,7 @@
 - [Count distinct elements in every window of size k](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/CountTheDistinctElements.playground/Contents.swift)
 - [Stock Sell & Buy](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/StockSellBuyToMaximiseProfit.playground/Contents.swift)
 - [Find Sub array for given sum](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/FindLargestSubArrayWithEqualNumberOfOneAndZero.playground/Contents.swift)
-- [Kadane's Algorithm - Largest sum contiguous sun array](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/KadanesAlgorithm.playground/Contents.swift)
+- [Kadane's Algorithm - Largest sum contiguous array](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/KadanesAlgorithm.playground/Contents.swift)
 - [Minimum coin change](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/CoinChangeProblem.playground/Contents.swift)
 - [Rain water trapping problem](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/RainwaterTrappingProblem.playground/Contents.swift)
 - [Print each digit from integer array](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/PrintEachDigitFromIntegerArray.playground/Contents.swift)
