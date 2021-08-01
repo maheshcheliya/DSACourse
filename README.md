@@ -29,7 +29,6 @@
 
 ## Other Problems
 - [Count the distinct elements in every window of size k](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/CountTheDistinctElements.playground/Contents.swift)
-- [Count distinct elements in every window of size k](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/CountTheDistinctElements.playground/Contents.swift)
 - [Stock Sell & Buy](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/StockSellBuyToMaximiseProfit.playground/Contents.swift)
 - [Find Sub array for given sum](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/FindLargestSubArrayWithEqualNumberOfOneAndZero.playground/Contents.swift)
 - [Kadane's Algorithm - Largest sum contiguous array](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/KadanesAlgorithm.playground/Contents.swift)
