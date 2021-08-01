@@ -4,7 +4,7 @@
 - [Bubble sort](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/BubbleSort.playground/Contents.swift)
 - [Insertion sort](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/InsertionSort.playground/Contents.swift)
 - [Selection sort](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/SelectionSort.playground/Contents.swift)
-- [Merge Sort]()
+- [Merge Sort](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/MergeSort.playground/Contents.swift)
 - [Quick sort](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/Swift-QuickSort.playground/Contents.swift)
 
 ## Binary Search & tree traversal
@@ -33,8 +33,15 @@
 - [Stock Sell & Buy](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/StockSellBuyToMaximiseProfit.playground/Contents.swift)
 - [Find Sub array for given sum](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/FindLargestSubArrayWithEqualNumberOfOneAndZero.playground/Contents.swift)
 - [Kadane's Algorithm - Largest sum contiguous sun array](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/KadanesAlgorithm.playground/Contents.swift)
+- [Minimum coin change](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/CoinChangeProblem.playground/Contents.swift)
 - [Rain water trapping problem](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/RainwaterTrappingProblem.playground/Contents.swift)
 - [Print each digit from integer array](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/PrintEachDigitFromIntegerArray.playground/Contents.swift)
 - [Find majority elements](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/MajorityElementsInArray.playground/Contents.swift)
 - [Large sum of two strings](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/LargeSumFromTwoString.playground/Contents.swift)
 - [Advanced Operators](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/DSA/AdvancedOperator.playground/Contents.swift)
+
+
+## Hackerrank problems
+- [Fraudulent Activity Notifications](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/Hackerrank/ActivityNotifications.playground/Contents.swift)
+- [Frequency Queries](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/Hackerrank/FrequencyQuery.playground/Contents.swift)
+- [Size of islands](https://github.com/maheshcheliya/datastructure-algorithm-coding-challenges/blob/main/Swift/Hackerrank/SizeOfIslands.playground/Contents.swift)
